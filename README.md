@@ -10,4 +10,4 @@
 ## To start Client
 # After going to directory of client hit command (npm i) to install all dependencies adn then use the command (npm start) to run frontend on port 5100.
 
-# Live Server Link :-
+# Live Server Link :-  https://story-omega-ten.vercel.app/
