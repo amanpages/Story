@@ -8,6 +8,8 @@
 # After directing to server directory install dependencies with (npm i) command and then start server with (nodemon server.js or node server.js).
 
 ## To start Client
-# After going to directory of client hit command (npm i) to install all dependencies adn then use the command (npm start) to run frontend on port 5100.
+# After going to directory of client hit command (npm i) to install all dependencies adn then use the command (npm start) to run frontend.
 
 # Live Server Link :-  https://story-omega-ten.vercel.app/
+
+
